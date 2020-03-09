@@ -101,6 +101,7 @@ nav{
   margin: 1.5rem 0;
 }
 
+
 .nav-link{
   font-size: 1.6rem;
   text-transform: uppercase;
@@ -302,7 +303,7 @@ nav{
 }
 
 .testimonial-customer{
- padding-top: 3rem;
+  padding-top: 3rem;
 }
 
 .adventure-grid{
